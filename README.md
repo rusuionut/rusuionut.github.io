@@ -1,5 +1,5 @@
 
-IFS is awesome, enjoy 
+IFS (Internal Family Systems) is awesome, enjoy !
 
 ## IFS Institute
 [ifs-institute](http://ifs-institute.com)
@@ -14,4 +14,4 @@ IFS is awesome, enjoy
 ## Other inspiring resources
 ...
 
-If you have any comments/suggestions, requests to add or remove items from this list please send an email to: ...
+If you have any comments or suggestions, requests to add or remove items from this list please send an email to: ...
