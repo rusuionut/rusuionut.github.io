@@ -2,7 +2,7 @@
 IFS is awesome, enjoy 
 
 ## IFS Institute
-[ifs-institute](ifs-institute.com)
+[ifs-institute](http://ifs-institute.com)
 ## Videos
 ...
 ## Podcasts
