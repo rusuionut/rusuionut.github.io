@@ -1,6 +1,6 @@
 
-This is a website that wants to collect IFS related links into one page.
-IFS (Internal Family Systems) is awesome, enjoy !
+This is a collection of IFS related links into one page.
+IFS is awesome, enjoy !
 
 # IFS Institute
 [ifs-institute](http://ifs-institute.com){:target="_blank"}
