@@ -3,10 +3,10 @@ This is a website that wants to collect IFS related links into one page.
 IFS (Internal Family Systems) is awesome, enjoy !
 
 # IFS Institute
-[ifs-institute](http://ifs-institute.com)
+[ifs-institute](http://ifs-institute.com){:target="_blank"}
 # Videos
-[What is Internal Family Systems? - 17 Mins](https://www.youtube.com/watch?v=Ym8o762U7uc)</br>
-[Understanding Parts: Compassion & Healing, Richard Schwartz, Elizabeth Esalen](https://www.youtube.com/watch?v=9shwJkaYNMI)
+[What is Internal Family Systems? - 17 Mins](https://www.youtube.com/watch?v=Ym8o762U7uc){:target="_blank"}</br>
+[Understanding Parts: Compassion & Healing, Richard Schwartz, Elizabeth Esalen](https://www.youtube.com/watch?v=9shwJkaYNMI){:target="_blank"}
 # Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}
 [Internal Family Systes and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
