@@ -5,7 +5,7 @@ IFS (Internal Family Systems) is awesome, enjoy !
 ## IFS Institute
 [ifs-institute](http://ifs-institute.com)
 ## Videos
-[What is Internal Family Systems? (17 Mins)](https://www.youtube.com/watch?v=Ym8o762U7uc)
+[What is Internal Family Systems? - 17 Mins](https://www.youtube.com/watch?v=Ym8o762U7uc)
 [Understanding Parts: Compassion & Healing, Richard Schwartz, Elizabeth Esalen](https://www.youtube.com/watch?v=9shwJkaYNMI)
 ## Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}
