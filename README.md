@@ -7,7 +7,8 @@ IFS (Internal Family Systems) is awesome, enjoy !
 ## Videos
 ...
 ## Podcasts
-[IFS talk with Paul Neustadt](https://internalfamilysystems.pt/multimedia/webinars/ifs-talk-paul-neustadt){:target="_blank"}
+
+[Internal Family Systes and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
 ## Books
 ...
 ## Articles
