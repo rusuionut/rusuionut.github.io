@@ -12,7 +12,9 @@ IFS is awesome, enjoy !
 # Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}  
 
-[Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}  
+[Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
+
+[IFS and Self Led Sexuality with Patricia Rich](https://theoneinside.libsyn.com/ifs-and-self-led-sexuality-with-patricia-rich){:target="_blank"}
 
 # Books
 ...
