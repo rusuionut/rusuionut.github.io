@@ -12,9 +12,9 @@ IFS is awesome, enjoy !
 # Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}  
 
-[Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
+[The One Inside](https://theoneinside.libsyn.com/){:target="_blank"}
 
-[The One Inside] (https://theoneinside.libsyn.com/){:target="_blank"}
+[Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
 
 # Books
 ...
