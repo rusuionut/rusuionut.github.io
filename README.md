@@ -23,6 +23,6 @@ IFS is awesome, enjoy !
 [Inside the Revolutionary Treatment That Could Change Psychotherapy Forever](https://elemental.medium.com/inside-the-revolutionary-treatment-that-could-change-psychotherapy-forever-8be035d54770){:target="_blank"}  
 
 # Other inspiring resources
-...
+[A randomized controlled trial of an internal family systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/23950186/){:target="_blank"}
 
 If you have any comments or suggestions, requests to add or remove items from this list please send an email to: rusu.ionut@gmail.com
