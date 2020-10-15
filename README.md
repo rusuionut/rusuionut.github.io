@@ -28,5 +28,8 @@ IFS is awesome, enjoy !
 [A randomized controlled trial of an internal family systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/23950186/){:target="_blank"}
 
 [Embodying the Internal Family](https://www.embodiedself.net/){:target="_blank"}  
-
+  
+  
+  
+  
 If you have any comments or suggestions, requests to add or remove items from this list please send an email to: rusu.ionut@gmail.com
