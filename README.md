@@ -19,10 +19,14 @@ IFS is awesome, enjoy !
 # Books
 [IFS Institute books](https://ifs-institute.com/store/category/11){:target="_blank"}
 
+[Somatic Internal Family Systems Therapy: Awareness, Breath, Resonance, Movement and Touch in Practice](https://www.amazon.com/Practitioners-Guide-Somatic-IFS-Therapy/dp/1623174880){:target="_blank"}
+
 # Articles
 [Inside the Revolutionary Treatment That Could Change Psychotherapy Forever](https://elemental.medium.com/inside-the-revolutionary-treatment-that-could-change-psychotherapy-forever-8be035d54770){:target="_blank"}  
 
 # Other inspiring resources
 [A randomized controlled trial of an internal family systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/23950186/){:target="_blank"}
+
+[Embodying the Internal Family](https://www.embodiedself.net/){:target="_blank"}
 
 If you have any comments or suggestions, requests to add or remove items from this list please send an email to: rusu.ionut@gmail.com
