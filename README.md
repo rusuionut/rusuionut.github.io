@@ -17,7 +17,7 @@ IFS is awesome, enjoy !
 [Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
 
 # Books
-[IFS Institute books](https://ifs-institute.com/store/category/11){:target="_blank}
+[IFS Institute books](https://ifs-institute.com/store/category/11){:target="_blank"}
 
 # Articles
 [Inside the Revolutionary Treatment That Could Change Psychotherapy Forever](https://elemental.medium.com/inside-the-revolutionary-treatment-that-could-change-psychotherapy-forever-8be035d54770){:target="_blank"}  
