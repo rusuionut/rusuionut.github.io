@@ -4,6 +4,10 @@ IFS is awesome, enjoy !
 
 # IFS Institute
 [ifs-institute](http://ifs-institute.com){:target="_blank"}
+
+# Summary
+[The Internal Family Systems Model Outline](https://ifs-institute.com/resources/articles/internal-family-systems-model-outline){:target="_blank"}
+
 # Videos
 [What is Internal Family Systems? - 17 Mins](https://www.youtube.com/watch?v=Ym8o762U7uc){:target="_blank"}  
 
