@@ -35,6 +35,8 @@ IFS is awesome, enjoy !
 
 [IFS Israel](http://www.ifs-israel.org/){:target="_blank"}
 
+[IFS Portugal](https://internalfamilysystems.pt/){:target="_blank"}
+
 # Other inspiring resources
 [A randomized controlled trial of an internal family systems-based psychotherapeutic intervention on outcomes in rheumatoid arthritis](https://pubmed.ncbi.nlm.nih.gov/23950186/){:target="_blank"}
 
