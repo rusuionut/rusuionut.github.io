@@ -19,6 +19,7 @@ IFS is awesome, enjoy !
 [The One Inside](https://theoneinside.libsyn.com/){:target="_blank"}
 
 [Internal Family Systems and Coaching](https://soundcloud.com/coachesrising/62-richard-schwartz-internal-family-systems-and-coaching){:target="_blank"}
+[Coaching From The Inside Out: How Internal Family Sysytems Can Deepen Your Work](https://vimeo.com/528541515?ref=em-share&fbclid=IwAR2Orjev48I6Mkuj2uFjsP7Zm4yniYl__pJvpG7VrPqQ7baU-7CtP55cjUY){:target="_blank"}
 
 # Books
 [IFS Institute books](https://ifs-institute.com/store/category/11){:target="_blank"}
