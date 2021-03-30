@@ -24,6 +24,8 @@ IFS is awesome, enjoy !
 
 [Coaching From The Inside Out: How Internal Family Sysytems Can Deepen Your Work](https://vimeo.com/528541515?ref=em-share&fbclid=IwAR2Orjev48I6Mkuj2uFjsP7Zm4yniYl__pJvpG7VrPqQ7baU-7CtP55cjUY){:target="_blank"}
 
+[IFS and the Window of Tolerance](https://www.youtube.com/watch?v=y8J6L-IWCbY){:target="_blank"}
+
 # Books
 [IFS Institute books](https://ifs-institute.com/store/category/11){:target="_blank"}
 
