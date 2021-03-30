@@ -1,5 +1,5 @@
 
-This is a community driven, curated, work in progress, collection of IFS related links into one page.  
+This is a collection of IFS related links in one page.  
 IFS is awesome, enjoy !
 
 # IFS Institute
