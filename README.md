@@ -13,7 +13,7 @@ IFS is awesome, enjoy !
 # Videos
 [Understanding Parts: Compassion & Healing, Richard Schwartz, Elizabeth Esalen](https://www.youtube.com/watch?v=9shwJkaYNMI){:target="_blank"}  
 
-[Becoming Whole: Healing the Exiled & Rejected Parts of Ourselves | Richard Schwartz, Soren Gordhamer](https://www.youtube.com/watch?v=UNtussFaYC0){:target="_blank"} 
+[Becoming Whole: Healing the Exiled & Rejected Parts of Ourselves - Richard Schwartz, Soren Gordhamer](https://www.youtube.com/watch?v=UNtussFaYC0){:target="_blank"} 
 
 # Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}  
