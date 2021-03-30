@@ -15,6 +15,9 @@ IFS is awesome, enjoy !
 
 [Becoming Whole: Healing the Exiled & Rejected Parts of Ourselves - Richard Schwartz, Soren Gordhamer](https://www.youtube.com/watch?v=UNtussFaYC0){:target="_blank"} 
 
+# Meditations
+[Internal Family Systems Meditation - Richard Schwartz - on insighttimer](https://insighttimer.com/drrichardschwartz){:target="_blank"}
+
 # Podcasts
 [IFS Talks](https://internalfamilysystems.pt/ifs-talks){:target="_blank"}  
 
